@@ -1,0 +1,9 @@
+﻿<Application x:Class="ХАМЛ1ПРАКТИЧЕСКАЯСИШАРПБРАВЛСТАРСУЕКМЬГУЬГКГКГКГУ.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ХАМЛ1ПРАКТИЧЕСКАЯСИШАРПБРАВЛСТАРСУЕКМЬГУЬГКГКГКГУ"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
